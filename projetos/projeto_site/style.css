@@ -1,0 +1,48 @@
+body{
+    background-color: #dce8f2;
+    
+}
+header{
+    background-color:blue;
+    color:white;
+    padding: 10px;
+}
+
+  
+main{
+    background-color: white;
+    width: 400px;
+    padding: 15px;
+}
+footer{
+    background-color:blue;
+    color:white;
+    padding: 5px;
+    margin-top: 10px;
+}
+.destaque{
+    color:red;
+    font-weight: bold;
+
+}
+.idade{
+    color:crimson;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+    
+   
+
+
+
+
+
+

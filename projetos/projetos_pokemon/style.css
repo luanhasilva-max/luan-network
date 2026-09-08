@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    margin: 40px;
+    background-color: #59F1F6;
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+}
+h2{
+    text-align: center;
+    margin: 10px 0px ;
+}
+.card-bottom{
+    background-color: #09AEB3;
+    padding: 10px;
+    border-radius: 10px;
+}
+.marca{
+    text-align: center;
+    color: #09AEB3;
+    margin-top: 10px;
+}

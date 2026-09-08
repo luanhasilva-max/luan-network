@@ -1,0 +1,59 @@
+body{
+    background-color: #1A1A2E;
+    font-family: Arial;
+    color: white;
+}
+
+
+
+header{
+    text-align: center;
+    color: deepskyblue;
+    margin-bottom: 30px;
+}
+
+
+main{
+    width: 800px;
+    margin: 10px;
+}
+
+
+
+.azul{
+    background-color: royalblue;
+
+    padding: 30px;
+
+    margin-bottom: 30px;
+}
+
+
+
+.verde{
+    background-color: limegreen;
+
+    margin: 30px;
+
+    padding: 10px;
+}
+
+
+
+.laranja{
+    background-color: orangered;
+
+    margin: 20px;
+
+    padding: 20px;
+}
+
+
+
+footer{
+    text-align: center;
+
+    margin-top: 40px;
+
+    color: gray;
+}
